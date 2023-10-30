@@ -1,2 +1,2 @@
 # Crab_Prediction_Analysis
-Kaggle-based ML model predicting crab features and sex.
+Kaggle-based ML model predicting crab physical features, indlucing the age and sex.
